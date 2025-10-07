@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="raspberrypi.local (14db867c-a936-45be-aed7-5e5e8222135e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.HKxlBSG3DR/lv_port_linux" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-raspberrypilocal" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-wsl-arm-linux" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="respberray-pi (ff7b38d9-4a6d-4b46-8944-7636cfc3e992)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.0XSjRjc11k/lv_port_linux" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-respberray-pi" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

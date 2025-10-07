@@ -1,0 +1,1 @@
+GEN_CSRCS += _rpi_logo_e7_16bit_RGB565A8_31x29.c _flow_RGB565A8_21x23.c _upload_RGB565_20x20.c _download_RGB565_20x20.c _flow_RGB565_20x20.c _temp_RGB565A8_24x24.c _upload_RGB565A8_24x24.c _download_RGB565A8_24x24.c
