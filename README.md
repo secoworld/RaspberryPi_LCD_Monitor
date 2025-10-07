@@ -34,3 +34,11 @@
 ### 实物展示：
 
 ![image-20251007190226824](D:\01_Project\01_language\07_mcu\respberry-pi-lvgl\lcd_show_demo\README.assets\image-20251007190226824.png)
+
+
+
+
+
+## 参考文档：
+
+- https://github.com/Temperature6/DevMonitor_for_Pis
