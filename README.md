@@ -27,13 +27,13 @@
 
 ### Gui-Guider设置展示：
 
-![image-20251007190202167](README.assets\image-20251007190202167.png)
+![image-20251007190202167](./README.assets/image-20251007190202167.png)
 
 
 
 ### 实物展示：
 
-![image-20251007190226824](README.assets\image-20251007190226824.png)
+![image-20251007190226824](./README.assets/image-20251007190226824.png)
 
 
 
