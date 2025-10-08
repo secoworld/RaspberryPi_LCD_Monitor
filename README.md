@@ -23,6 +23,16 @@
 - MHS35 LCD驱动安装
 - tslib-dev库安装（本次项目仅展示，也可以将其去除，不影响本次展示）
 
+
+
+## 实现原理过程
+
+详细过程可以参考博客：
+
+http://liulongtao.com/archives/136
+
+
+
 ## 展示效果
 
 ### Gui-Guider设置展示：
